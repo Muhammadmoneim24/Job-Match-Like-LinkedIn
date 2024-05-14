@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|e:\\4th cse\\second term\\database\\databaseproj\\databaseproj\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\helpers\\mongodbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\helpers\\mongodbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\databaseproj\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE79EBB-A237-4683-9E14-043D2DC71B68}|DatabaseProj\\DatabaseProj.csproj|solutionrelative:databaseproj\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Models\\Post.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Post.cs",
+              "RelativeToolTip": "DatabaseProj\\Models\\Post.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:37:05.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDbHelper.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Helpers\\MongoDbHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Helpers\\MongoDbHelper.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Helpers\\MongoDbHelper.cs",
+              "RelativeToolTip": "DatabaseProj\\Helpers\\MongoDbHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:23:24.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Controllers\\CommentsController.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "DatabaseProj\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:51:09.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Models\\Notification.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Notification.cs",
+              "RelativeToolTip": "DatabaseProj\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:49:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Models\\Message.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Message.cs",
+              "RelativeToolTip": "DatabaseProj\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:49:36.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Models\\Comment.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Models\\Comment.cs",
+              "RelativeToolTip": "DatabaseProj\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:49:27.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Controllers\\PostsController.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "DatabaseProj\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:21:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseProj\\Program.cs",
+              "ToolTip": "E:\\4th CSE\\Second Term\\Database\\DatabaseProj\\DatabaseProj\\Program.cs",
+              "RelativeToolTip": "DatabaseProj\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:00:54.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
