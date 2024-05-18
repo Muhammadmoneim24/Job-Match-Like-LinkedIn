@@ -1,0 +1,16 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.post:first-child {
+  margin-top: 100px !important;
+}
+@media (max-width: 768px) {
+  .post:first-child {
+    margin-top: 80px !important;
+  }
+}
+.add-post-btn:hover {
+  border: none !important;
+  z-index: 10000;
+}
